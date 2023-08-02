@@ -147,3 +147,60 @@ a.read-more {
     font-size: 14px;
     color: #e74c3c;
 }
+
+
+
+#footer-sidebar {
+    color: white;
+    background: #34495e;
+    padding: 20px 0px;
+
+}
+
+.footer-widget h4:after {
+    content: "";
+    background-color: #fff;
+    display: block;
+    width: 50px;
+    height: 2px;
+    margin: 5px 0px;
+}
+
+.footer-widget a {
+    color: white;
+}
+
+.Leatest-news {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.Leatest-news   li {
+    margin-bottom: 3px;
+}
+
+#footer {
+    color: #fff;
+    background: #2c3e50;
+    padding: 10px 0px;
+}
+
+#social-icon{
+    list-style-type: none;
+    color: #fff;
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+#social-icon li {
+    display: inline-block;
+    padding-left: 5px;
+    text-transform: capitalize;
+}
+
+#social-icon li a {
+    color: #fff;
+    font-size: 23px;
+}
