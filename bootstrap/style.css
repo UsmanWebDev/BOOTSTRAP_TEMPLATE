@@ -3,26 +3,6 @@ a:hover {
     text-decoration: none;
 }
 
-.section {
-    padding-top: 70px;
-    padding-bottom: 70px;
-}
-
-.section h2.section-head {
-    color: black;
-    text-align: center;
-    margin-bottom: 40px;
-}
-
-.section h2.section-head:after {
-    background-color: #e74c3c;
-    content: "";
-    display: block;
-    width: 100px;
-    height: 3px;
-    margin: 20px auto;
-}
-
 
 
 
@@ -87,14 +67,4 @@ a:hover {
 .banner-title p.lead {
     color: white;
     padding: 10px;
-}
-
-
-.servies-box {
-    text-align: center;
-}
-
-.servies-box img{
-    margin-bottom: 15px;
-    transform: scale(1.2);
 }
